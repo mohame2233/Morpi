@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Brookhaven-RP-Brookhaven-RP-VR7-LPOLVO-39588"))()
